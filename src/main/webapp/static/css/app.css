@@ -1,0 +1,33 @@
+        h1 {
+            color: white;
+            font-size: 400%;
+        }
+
+        body {
+            color: white;
+            text-align: center;
+        }
+
+
+        div {
+            font-size: 200%;
+            height: 80px; 
+        }   
+
+        #submit {
+            width: 5em;  
+            height: 3em;
+        }
+
+        input {
+            width: 20em;  
+            height: 2em; 
+        }
+
+        input, input[placeholder] {
+            text-align: center;
+        }
+
+        label {
+            vertical-align: bottom;
+        }
